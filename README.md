@@ -10,3 +10,5 @@ The company is experiencing high employee attrition and seeks to identify key fa
 # Key Insights
 
 Key Factors identified were Job Role, Number of Companies Worked, Years Spent with Current Manager and Gender. These insights will help pinpoint where to focus our efforts to reduce turnover and keep our teams engaged and motivated
+
+Here is the link to dashboard: [HR_Analytics_Dashboard](https://public.tableau.com/app/profile/sindhu.l3251/viz/HRAnalyticsDashboard_17253647821040/Dashboard1?publish=yes)
